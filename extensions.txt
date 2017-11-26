@@ -1,2 +1,3 @@
 PeterJausovec.vscode-docker
 TeddyDD.fish
+octref.vetur
