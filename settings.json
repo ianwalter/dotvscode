@@ -4,5 +4,6 @@
   "editor.minimap.enabled": false,
   "editor.rulers": [80, 120],
   "files.trimTrailingWhitespace": true,
-  "files.insertFinalNewline": true
+  "files.insertFinalNewline": true,
+  "workbench.colorTheme": "Dracula"
 }
