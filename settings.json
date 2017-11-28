@@ -6,7 +6,6 @@
   "files.trimTrailingWhitespace": true,
   "files.insertFinalNewline": true,
   "workbench.colorTheme": "Dracula",
-  "gitlens.blame.line.enabled": false,
   "gitlens.advanced.messages": {
     "suppressCommitHasNoPreviousCommitWarning": false,
     "suppressCommitNotFoundWarning": false,
@@ -16,5 +15,7 @@
     "suppressNoRepositoryWarning": false,
     "suppressUpdateNotice": false,
     "suppressWelcomeNotice": true
-  }
+  },
+  "gitlens.blame.line.enabled": false,
+  "gitlens.codeLens.enabled": false
 }
