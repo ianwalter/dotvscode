@@ -3,4 +3,5 @@ TeddyDD.fish
 dracula-theme.theme-dracula
 eamodio.gitlens
 mrmlnc.vscode-duplicate
+ms-python.python
 octref.vetur
