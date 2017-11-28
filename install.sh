@@ -11,4 +11,4 @@ SETTINGS_PATH=~/Library/Application\ Support/Code/User/settings.json
 if [[ $(uname) == 'Linux' ]]; then
   SETTINGS_PATH=~/.config/Code/User/settings.json
 fi
-cp ./settings.json $SETTINGS_PATH
+cp ./settings.json "$SETTINGS_PATH"
