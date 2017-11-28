@@ -1,5 +1,6 @@
 PeterJausovec.vscode-docker
 TeddyDD.fish
 dracula-theme.theme-dracula
+eamodio.gitlens
 mrmlnc.vscode-duplicate
 octref.vetur
