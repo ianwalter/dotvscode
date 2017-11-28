@@ -3,5 +3,6 @@
   "editor.fontSize": 16,
   "editor.minimap.enabled": false,
   "editor.rulers": [80, 120],
-  "files.trimTrailingWhitespace": true
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true
 }
