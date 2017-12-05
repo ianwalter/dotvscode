@@ -7,6 +7,7 @@
   "files.insertFinalNewline": true,
   "workbench.colorTheme": "Dracula",
   "workbench.startupEditor": "none",
+  "workbench.editor.enablePreview": false,
   "gitlens.advanced.messages": {
     "suppressCommitHasNoPreviousCommitWarning": false,
     "suppressCommitNotFoundWarning": false,
@@ -14,7 +15,7 @@
     "suppressGitVersionWarning": false,
     "suppressLineUncommittedWarning": false,
     "suppressNoRepositoryWarning": false,
-    "suppressUpdateNotice": false,
+    "suppressUpdateNotice": true,
     "suppressWelcomeNotice": true
   },
   "gitlens.blame.line.enabled": false,
