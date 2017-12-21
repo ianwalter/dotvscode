@@ -1,8 +1,10 @@
 HookyQR.beautify
+Jarga.apib
 PeterJausovec.vscode-docker
 TeddyDD.fish
 dracula-theme.theme-dracula
 eamodio.gitlens
+flowtype.flow-for-vscode
 minhthai.vscode-todo-parser
 mrmlnc.vscode-duplicate
 ms-python.python
