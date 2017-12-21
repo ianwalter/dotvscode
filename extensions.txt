@@ -1,3 +1,4 @@
+HookyQR.beautify
 PeterJausovec.vscode-docker
 TeddyDD.fish
 dracula-theme.theme-dracula
