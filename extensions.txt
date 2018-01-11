@@ -2,6 +2,7 @@ HookyQR.beautify
 Jarga.apib
 PeterJausovec.vscode-docker
 TeddyDD.fish
+dbaeumer.vscode-eslint
 dracula-theme.theme-dracula
 eamodio.gitlens
 flowtype.flow-for-vscode

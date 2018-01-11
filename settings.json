@@ -20,5 +20,9 @@
   },
   "gitlens.blame.line.enabled": false,
   "gitlens.codeLens.enabled": false,
-  "explorer.confirmDragAndDrop": false
+  "explorer.confirmDragAndDrop": false,
+  "eslint.validate": [
+    "javascript",
+    "vue"
+  ]
 }
