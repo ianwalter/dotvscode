@@ -24,5 +24,12 @@
   "eslint.validate": [
     "javascript",
     "vue"
-  ]
+  ],
+  "files.exclude": {
+    "**/.git": true,
+    "**/.DS_Store": true,
+    "**/.history": true
+  },
+  "editor.renderWhitespace": "all",
+  "window.zoomLevel": 1
 }

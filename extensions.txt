@@ -1,6 +1,7 @@
 HookyQR.beautify
 Jarga.apib
 PeterJausovec.vscode-docker
+SirTobi.pegjs-language
 TeddyDD.fish
 dbaeumer.vscode-eslint
 dracula-theme.theme-dracula
