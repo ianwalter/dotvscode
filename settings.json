@@ -1,10 +1,19 @@
 {
+  "window.zoomLevel": 1,
   "editor.tabSize": 2,
   "editor.fontSize": 16,
   "editor.minimap.enabled": false,
   "editor.rulers": [80, 120],
+  "editor.renderWhitespace": "all",
+  "explorer.confirmDragAndDrop": false,
+  "explorer.autoReveal": false,
   "files.trimTrailingWhitespace": true,
   "files.insertFinalNewline": true,
+  "files.exclude": {
+    "**/.git": true,
+    "**/.DS_Store": true,
+    "**/.history": true
+  },
   "workbench.colorTheme": "Dracula",
   "workbench.startupEditor": "none",
   "workbench.editor.enablePreview": false,
@@ -18,18 +27,9 @@
     "suppressUpdateNotice": true,
     "suppressWelcomeNotice": true
   },
-  "gitlens.blame.line.enabled": false,
   "gitlens.codeLens.enabled": false,
-  "explorer.confirmDragAndDrop": false,
   "eslint.validate": [
     "javascript",
     "vue"
-  ],
-  "files.exclude": {
-    "**/.git": true,
-    "**/.DS_Store": true,
-    "**/.history": true
-  },
-  "editor.renderWhitespace": "all",
-  "window.zoomLevel": 1
+  ]
 }
