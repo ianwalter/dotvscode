@@ -6,9 +6,6 @@ TeddyDD.fish
 dbaeumer.vscode-eslint
 dracula-theme.theme-dracula
 eamodio.gitlens
-flowtype.flow-for-vscode
-minhthai.vscode-todo-parser
 mrmlnc.vscode-duplicate
 ms-python.python
 octref.vetur
-xyz.local-history
