@@ -9,6 +9,9 @@ eamodio.gitlens
 ericadamski.carbon-now-sh
 jock.svg
 mikestead.dotenv
+eg2.tslint
+ianwalter.file-record
+mjmcloug.vscode-elixir
 mrmlnc.vscode-duplicate
 ms-python.python
 octref.vetur
