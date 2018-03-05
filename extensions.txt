@@ -6,6 +6,9 @@ TeddyDD.fish
 dbaeumer.vscode-eslint
 dracula-theme.theme-dracula
 eamodio.gitlens
+ericadamski.carbon-now-sh
+jock.svg
+mikestead.dotenv
 mrmlnc.vscode-duplicate
 ms-python.python
 octref.vetur
