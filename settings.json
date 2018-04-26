@@ -10,6 +10,7 @@
   "files.trimTrailingWhitespace": true,
   "files.insertFinalNewline": true,
   "files.exclude": {
+    "**/.record": true,
     "**/.git": true,
     "**/.DS_Store": true,
     "**/*.pyc": true
@@ -24,6 +25,8 @@
     "suppressGitVersionWarning": false,
     "suppressLineUncommittedWarning": false,
     "suppressNoRepositoryWarning": false,
+    "suppressResultsExplorerNotice": false,
+    "suppressShowKeyBindingsNotice": true,
     "suppressUpdateNotice": true,
     "suppressWelcomeNotice": true
   },
