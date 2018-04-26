@@ -22,4 +22,5 @@ octref.vetur
 sidneys1.gitconfig
 sysoev.language-stylus
 theaustinseven.pegs
+wayou.vscode-todo-highlight
 wix.vscode-import-cost
