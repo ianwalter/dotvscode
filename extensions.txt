@@ -3,7 +3,10 @@ Jarga.apib
 PeterJausovec.vscode-docker
 SirTobi.pegjs-language
 TeddyDD.fish
+asvetliakov.snapshot-tools
+attilabuti.vscode-mjml
 dbaeumer.vscode-eslint
+digitalstreamio.mjml-syntax
 dracula-theme.theme-dracula
 eamodio.gitlens
 eg2.tslint
@@ -16,6 +19,7 @@ mjmcloug.vscode-elixir
 mrmlnc.vscode-duplicate
 ms-python.python
 octref.vetur
+sidneys1.gitconfig
 sysoev.language-stylus
 theaustinseven.pegs
 wix.vscode-import-cost
