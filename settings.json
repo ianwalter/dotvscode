@@ -1,7 +1,8 @@
 {
-  "window.zoomLevel": 1,
+  "window.zoomLevel": 0,
+  "editor.fontFamily": "'Fira Code', Menlo, Monaco, monospace",
   "editor.tabSize": 2,
-  "editor.fontSize": 16,
+  "editor.fontSize": 18,
   "editor.minimap.enabled": false,
   "editor.rulers": [80, 120],
   "editor.renderWhitespace": "all",
@@ -31,6 +32,7 @@
     "suppressWelcomeNotice": true
   },
   "gitlens.codeLens.enabled": false,
+  "gitlens.historyExplorer.enabled": true,
   "eslint.validate": [
     "javascript",
     "vue"
