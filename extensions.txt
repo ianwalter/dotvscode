@@ -2,7 +2,6 @@ HookyQR.beautify
 Jarga.apib
 PeterJausovec.vscode-docker
 SirTobi.pegjs-language
-TeddyDD.fish
 asvetliakov.snapshot-tools
 attilabuti.vscode-mjml
 christian-kohler.npm-intellisense
@@ -20,5 +19,6 @@ ms-vscode.Go
 ms-vsliveshare.vsliveshare
 octref.vetur
 sidneys1.gitconfig
+skyapps.fish-vscode
 theaustinseven.pegs
 wayou.vscode-todo-highlight
