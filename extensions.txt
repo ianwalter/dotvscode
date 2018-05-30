@@ -20,5 +20,6 @@ ms-vsliveshare.vsliveshare
 octref.vetur
 sidneys1.gitconfig
 skyapps.fish-vscode
+technosophos.vscode-helm
 theaustinseven.pegs
 wayou.vscode-todo-highlight

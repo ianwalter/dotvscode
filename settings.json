@@ -36,5 +36,6 @@
   "eslint.validate": [
     "javascript",
     "vue"
-  ]
+  ],
+  "terminal.integrated.fontSize": 14,
 }
