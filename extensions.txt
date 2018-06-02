@@ -18,6 +18,7 @@ mrmlnc.vscode-duplicate
 ms-vscode.Go
 ms-vsliveshare.vsliveshare
 octref.vetur
+shanoor.vscode-nginx
 sidneys1.gitconfig
 skyapps.fish-vscode
 technosophos.vscode-helm
