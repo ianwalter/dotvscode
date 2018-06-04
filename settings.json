@@ -38,4 +38,5 @@
     "vue"
   ],
   "terminal.integrated.fontSize": 14,
+  "todohighlight.toggleURI": true
 }
