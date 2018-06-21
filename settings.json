@@ -6,6 +6,7 @@
   "editor.minimap.enabled": false,
   "editor.rulers": [80, 120],
   "editor.renderWhitespace": "all",
+  "editor.scrollBeyondLastLine": false,
   "explorer.confirmDragAndDrop": false,
   "explorer.autoReveal": false,
   "files.trimTrailingWhitespace": true,
