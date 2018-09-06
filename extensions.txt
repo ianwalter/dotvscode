@@ -1,5 +1,3 @@
-Jarga.apib
-PeterJausovec.vscode-docker
 SirTobi.pegjs-language
 asvetliakov.snapshot-tools
 attilabuti.vscode-mjml
@@ -12,16 +10,20 @@ eamodio.gitlens
 ericadamski.carbon-now-sh
 HookyQR.beautify
 ianwalter.file-record
+Jarga.apib
 jock.svg
+jspolancor.presentationmode
 mikestead.dotenv
 mjmcloug.vscode-elixir
 mrmlnc.vscode-duplicate
 ms-vscode.Go
 ms-vsliveshare.vsliveshare
 octref.vetur
+PeterJausovec.vscode-docker
 shanoor.vscode-nginx
 sidneys1.gitconfig
 skyapps.fish-vscode
 technosophos.vscode-helm
 theaustinseven.pegs
+vncz.vscode-apielements
 wayou.vscode-todo-highlight
