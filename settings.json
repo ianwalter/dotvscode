@@ -40,5 +40,6 @@
   ],
   "terminal.integrated.fontSize": 14,
   "todohighlight.toggleURI": true,
-  "presentationMode.zoomLevel": 1
+  "presentationMode.zoomLevel": 1,
+  "window.restoreFullscreen": true
 }
