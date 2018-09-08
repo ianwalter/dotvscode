@@ -1,9 +1,21 @@
 #!/bin/bash
 
-# Install all extensions from extension file.
-read -d '' -a installed < extensions.txt
+# Read in the extensions file.
+read -d '' -a master < extensions.txt
+
+# Uninstall any installed extensions that are not in the extension file.
+installed=$(code --list-extensions)
 for i in ${installed[@]}; do
-  code --install-extension $i
+  if [[ ${master[@]} != *"$i"* ]]; then
+    code --uninstall-extension $i
+  fi
+done
+
+# Install missing extensions found in the extension file.
+for i in ${master[@]}; do
+  if [[ ${installed[@]} != *"$i"* ]]; then
+    code --install-extension $i
+  fi
 done
 
 # Copy settings file.
