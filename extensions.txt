@@ -1,3 +1,4 @@
+Jarga.apib
 SirTobi.pegjs-language
 asvetliakov.snapshot-tools
 attilabuti.vscode-mjml
@@ -10,7 +11,6 @@ eamodio.gitlens
 ericadamski.carbon-now-sh
 HookyQR.beautify
 ianwalter.file-record
-Jarga.apib
 jock.svg
 jspolancor.presentationmode
 mikestead.dotenv
@@ -20,6 +20,7 @@ ms-vscode.Go
 ms-vsliveshare.vsliveshare
 octref.vetur
 PeterJausovec.vscode-docker
+rebornix.ruby
 shanoor.vscode-nginx
 sidneys1.gitconfig
 skyapps.fish-vscode
