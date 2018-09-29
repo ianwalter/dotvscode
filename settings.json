@@ -41,5 +41,7 @@
   "terminal.integrated.fontSize": 14,
   "todohighlight.toggleURI": true,
   "presentationMode.zoomLevel": 1,
-  "window.restoreFullscreen": true
+  "window.restoreFullscreen": true,
+  "vetur.format.scriptInitialIndent": true,
+  "vetur.format.styleInitialIndent": true
 }
