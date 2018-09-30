@@ -1,10 +1,11 @@
 # dotvscode
 > Ian's [VS Code](https://code.visualstudio.com/) configuration (part of
-  [dotfiles](https://github.com/ianwalter/dotfiles)).
+  [dotfiles](https://github.com/ianwalter/dotfiles))
 
 ## Installation
 
-Adds settings and installs any extensions not already installed:
+Add settings and installs extensions in the extensions list if they are not
+already installed:
 
 ```console
 ./install.sh
@@ -12,7 +13,7 @@ Adds settings and installs any extensions not already installed:
 
 ## Update
 
-Copies settings and the names of any installed extensions not in the extensions
+Copy settings and the names of any installed extensions not in the extensions
 list:
 
 ```console
