@@ -43,5 +43,8 @@
   "presentationMode.zoomLevel": 1,
   "window.restoreFullscreen": true,
   "vetur.format.scriptInitialIndent": true,
-  "vetur.format.styleInitialIndent": true
+  "vetur.format.styleInitialIndent": true,
+  "window.menuBarVisibility": "toggle",
+  "terminal.integrated.shell.linux": "/bin/zsh",
+  "terminal.integrated.shell.osx": "/bin/zsh"
 }
