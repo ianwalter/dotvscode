@@ -1,5 +1,7 @@
 {
   "window.zoomLevel": 0,
+  "window.restoreFullscreen": true,
+  "window.menuBarVisibility": "toggle",
   "editor.fontFamily": "'Fira Code', Menlo, Monaco, monospace",
   "editor.tabSize": 2,
   "editor.fontSize": 18,
@@ -20,6 +22,9 @@
   "workbench.colorTheme": "Dracula",
   "workbench.startupEditor": "none",
   "workbench.editor.enablePreview": false,
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.shell.linux": "/bin/zsh",
+  "terminal.integrated.shell.osx": "/bin/zsh",
   "gitlens.advanced.messages": {
     "suppressCommitHasNoPreviousCommitWarning": false,
     "suppressCommitNotFoundWarning": false,
@@ -38,13 +43,10 @@
     "javascript",
     "vue"
   ],
-  "terminal.integrated.fontSize": 14,
   "todohighlight.toggleURI": true,
   "presentationMode.zoomLevel": 1,
-  "window.restoreFullscreen": true,
   "vetur.format.scriptInitialIndent": true,
   "vetur.format.styleInitialIndent": true,
-  "window.menuBarVisibility": "toggle",
-  "terminal.integrated.shell.linux": "/bin/zsh",
-  "terminal.integrated.shell.osx": "/bin/zsh"
+  "scss.lint.unknownProperties": "ignore",
+  "scss.lint.emptyRules": "ignore"
 }
