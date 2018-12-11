@@ -27,5 +27,6 @@ shanoor.vscode-nginx
 sidneys1.gitconfig
 technosophos.vscode-helm
 theaustinseven.pegs
+VisualStudioExptTeam.vscodeintellicode
 vncz.vscode-apielements
 wayou.vscode-todo-highlight

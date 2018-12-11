@@ -48,5 +48,7 @@
   "vetur.format.scriptInitialIndent": true,
   "vetur.format.styleInitialIndent": true,
   "scss.lint.unknownProperties": "ignore",
-  "scss.lint.emptyRules": "ignore"
+  "scss.lint.emptyRules": "ignore",
+  "gitlens.views.fileHistory.enabled": true,
+  "gitlens.views.lineHistory.enabled": true
 }
