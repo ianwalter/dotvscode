@@ -50,5 +50,6 @@
   "scss.lint.unknownProperties": "ignore",
   "scss.lint.emptyRules": "ignore",
   "gitlens.views.fileHistory.enabled": true,
-  "gitlens.views.lineHistory.enabled": true
+  "gitlens.views.lineHistory.enabled": true,
+  "gitlens.showWhatsNewAfterUpgrades": false
 }
