@@ -2,7 +2,7 @@
   "window.zoomLevel": 0,
   "window.restoreFullscreen": true,
   "window.menuBarVisibility": "toggle",
-  "editor.fontFamily": "'Fira Code', Menlo, Monaco, monospace",
+  "editor.fontFamily": "SF Mono",
   "editor.tabSize": 2,
   "editor.fontSize": 18,
   "editor.minimap.enabled": false,

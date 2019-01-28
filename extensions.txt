@@ -1,4 +1,3 @@
-SirTobi.pegjs-language
 asvetliakov.snapshot-tools
 attilabuti.vscode-mjml
 bungcip.better-toml
@@ -25,6 +24,7 @@ rebornix.ruby
 redhat.vscode-yaml
 shanoor.vscode-nginx
 sidneys1.gitconfig
+SirTobi.pegjs-language
 technosophos.vscode-helm
 theaustinseven.pegs
 VisualStudioExptTeam.vscodeintellicode
