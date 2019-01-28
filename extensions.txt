@@ -1,3 +1,4 @@
+SirTobi.pegjs-language
 asvetliakov.snapshot-tools
 attilabuti.vscode-mjml
 bungcip.better-toml
@@ -7,6 +8,7 @@ digitalstreamio.mjml-syntax
 dracula-theme.theme-dracula
 eamodio.gitlens
 ericadamski.carbon-now-sh
+formulahendry.github-actions
 HookyQR.beautify
 ianwalter.file-record
 Jarga.apib
@@ -24,7 +26,6 @@ rebornix.ruby
 redhat.vscode-yaml
 shanoor.vscode-nginx
 sidneys1.gitconfig
-SirTobi.pegjs-language
 technosophos.vscode-helm
 theaustinseven.pegs
 VisualStudioExptTeam.vscodeintellicode
