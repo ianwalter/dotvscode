@@ -51,5 +51,9 @@
   "scss.lint.emptyRules": "ignore",
   "gitlens.views.fileHistory.enabled": true,
   "gitlens.views.lineHistory.enabled": true,
-  "gitlens.showWhatsNewAfterUpgrades": false
+  "gitlens.showWhatsNewAfterUpgrades": false,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "npm-intellisense.importLinebreak": "",
+  "npm-intellisense.scanDevDependencies": true
 }
