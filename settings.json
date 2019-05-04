@@ -19,7 +19,6 @@
     "**/.DS_Store": true,
     "**/*.pyc": true
   },
-  "workbench.colorTheme": "Dracula",
   "workbench.startupEditor": "none",
   "workbench.editor.enablePreview": false,
   "terminal.integrated.fontSize": 14,
@@ -55,5 +54,9 @@
   "editor.suggestSelection": "first",
   "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
   "npm-intellisense.importLinebreak": "",
-  "npm-intellisense.scanDevDependencies": true
+  "npm-intellisense.scanDevDependencies": true,
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "workbench.colorTheme": "Dracula",
+  "liveshare.featureSet": "stable",
+  "editor.gotoLocation.multiple": "goto"
 }

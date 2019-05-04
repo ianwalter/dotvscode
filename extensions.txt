@@ -3,8 +3,10 @@ dbaeumer.vscode-eslint
 dracula-theme.theme-dracula
 eamodio.gitlens
 formulahendry.github-actions
+GitHub.vscode-pull-request-github
 HookyQR.beautify
 ianwalter.file-record
+JamesBirtles.svelte-vscode
 Jarga.apib
 jock.svg
 jspolancor.presentationmode
@@ -18,6 +20,7 @@ PeterJausovec.vscode-docker
 rebornix.ruby
 redhat.vscode-yaml
 sidneys1.gitconfig
+tlent.jest-snapshot-language-support
 VisualStudioExptTeam.vscodeintellicode
 vncz.vscode-apielements
 wayou.vscode-todo-highlight
