@@ -2,7 +2,7 @@
   "window.zoomLevel": 0,
   "window.restoreFullscreen": true,
   "window.menuBarVisibility": "toggle",
-  "editor.fontFamily": "SF Mono",
+  "editor.fontFamily": "Fira Code",
   "editor.tabSize": 2,
   "editor.fontSize": 18,
   "editor.minimap.enabled": false,
@@ -21,7 +21,7 @@
   },
   "workbench.startupEditor": "none",
   "workbench.editor.enablePreview": false,
-  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontSize": 16,
   "terminal.integrated.shell.linux": "/bin/zsh",
   "terminal.integrated.shell.osx": "/bin/zsh",
   "gitlens.advanced.messages": {
