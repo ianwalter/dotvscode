@@ -19,11 +19,12 @@ for i in ${master[@]}; do
 done
 
 # Copy settings file.
-SETTINGS_PATH=~/Library/Application\ Support/Code/User/settings.json
+SETTINGS_PATH=~/Library/Application\ Support/Code/User
 if [[ $(uname) == 'Linux' ]]; then
   SETTINGS_PATH=~/.config/Code/User/settings.json
 fi
 cp ./settings.json "$SETTINGS_PATH"
+cp ./keybindings.json "$SETTINGS_PATH"
 
 if [[ $? == 0 ]]; then
   echo "Installed Visual Studio Code configuration successfully."

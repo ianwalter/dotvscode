@@ -19,6 +19,19 @@ list:
 ./update.sh
 ```
 
+## Cheatsheet
+
+* `<cmd>p` Opens the open file typeahead
+* `<shift><cmd>p` Opens the command typeahead
+* `<ctrl>~` Switches between the editor and terminal panels
+
+### Terminal
+
+* `<cmd>j` Toggles showing the terminal panel
+* `<ctrl><backtick>` Toggles focus between the terminal and the editor
+* `<cmd><shift>]` Switches to the next terminal window
+* `<cmd><shift>[` Switches to the previous terminal window
+
 ## License
 
 Apache 2.0 with Commons Clause - See [LICENSE][licenseUrl]
