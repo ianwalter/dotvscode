@@ -56,7 +56,7 @@
   "npm-intellisense.importLinebreak": "",
   "npm-intellisense.scanDevDependencies": true,
   "javascript.updateImportsOnFileMove.enabled": "never",
-  "workbench.colorTheme": "Dracula",
+  "workbench.colorTheme": "brooks",
   "liveshare.featureSet": "stable",
   "editor.gotoLocation.multiple": "goto"
 }

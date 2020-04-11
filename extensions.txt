@@ -1,11 +1,11 @@
 coolbear.systemd-unit-file
 dbaeumer.vscode-eslint
-dracula-theme.theme-dracula
 eamodio.gitlens
 formulahendry.github-actions
 GitHub.vscode-pull-request-github
 glitch.glitch
 HookyQR.beautify
+ianwalter.brooks-vscode
 ianwalter.file-record
 JamesBirtles.svelte-vscode
 jock.svg
