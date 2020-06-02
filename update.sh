@@ -14,7 +14,10 @@ fi
 cp "$settingsPath/settings.json" .
 cp "$settingsPath/keybindings.json" .
 
-# Copy installed extensions to extensions file.
-if [[ `which code` ]]; then
-  code --list-extensions > extensions.txt
+codeBin='code'
+if [[ `which code-server` ]]; then
+  codeBin=code-server
 fi
+
+# Copy installed extensions to extensions file.
+$codeBin --list-extensions > extensions.txt
