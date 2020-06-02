@@ -1,12 +1,20 @@
 #!/bin/bash
 
-# Copy settings file.
-SETTINGS_PATH=~/Library/Application\ Support/Code/User
+settingsPath=$HOME/Library/Application\ Support/Code/User
+codeServerPath=$HOME/.local/share/code-server/User
 if [[ $(uname) == 'Linux' ]]; then
-  SETTINGS_PATH=~/.config/Code/User/settings.json
+  if [[ -d $codeServerPath ]]; then
+    settingsPath=$codeServerPath
+  else
+    settingsPath=~/.config/Code/User/settings.json
+  fi
 fi
-cp "$SETTINGS_PATH/settings.json" .
-cp "$SETTINGS_PATH/keybindings.json" .
+
+# Copy settings files.
+cp "$settingsPath/settings.json" .
+cp "$settingsPath/keybindings.json" .
 
 # Copy installed extensions to extensions file.
-code --list-extensions > extensions.txt
+if [[ `which code` ]]; then
+  code --list-extensions > extensions.txt
+fi
