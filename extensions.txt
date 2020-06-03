@@ -1,6 +1,7 @@
 coolbear.systemd-unit-file
 dbaeumer.vscode-eslint
 eamodio.gitlens
+EditorConfig.EditorConfig
 formulahendry.github-actions
 GitHub.vscode-pull-request-github
 glitch.glitch

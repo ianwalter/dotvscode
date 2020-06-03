@@ -58,5 +58,7 @@
   "javascript.updateImportsOnFileMove.enabled": "never",
   "workbench.colorTheme": "brooks",
   "liveshare.featureSet": "stable",
-  "editor.gotoLocation.multiple": "goto"
+  "editor.gotoLocation.multiple": "goto",
+  "typescript.surveys.enabled": false,
+  "typescript.disableAutomaticTypeAcquisition": true
 }
