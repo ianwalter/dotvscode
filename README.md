@@ -24,6 +24,7 @@ list:
 * `<cmd>p` Opens the open file typeahead
 * `<shift><cmd>p` Opens the command typeahead
 * `<ctrl>~` Switches between the editor and terminal panels
+* `<cmd>1` Switches back to the editor from some other panel (e.g. Explorer)
 
 ### Terminal
 
