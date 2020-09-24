@@ -1,8 +1,5 @@
 {
-  "window.zoomLevel": 0,
-  "window.restoreFullscreen": true,
   "window.menuBarVisibility": "toggle",
-  "editor.fontFamily": "Fira Code, JetBrains Mono",
   "editor.tabSize": 2,
   "editor.fontSize": 18,
   "editor.minimap.enabled": false,
@@ -22,22 +19,8 @@
   "workbench.startupEditor": "none",
   "workbench.editor.enablePreview": false,
   "terminal.integrated.fontSize": 16,
-  "terminal.integrated.shell.linux": "/home/linuxbrew/.linuxbrew/bin/zsh",
+  // "terminal.integrated.shell.linux": "/home/linuxbrew/.linuxbrew/bin/zsh",
   "terminal.integrated.shell.osx": "/usr/local/bin/zsh",
-  "gitlens.advanced.messages": {
-    "suppressCommitHasNoPreviousCommitWarning": false,
-    "suppressCommitNotFoundWarning": false,
-    "suppressFileNotUnderSourceControlWarning": false,
-    "suppressGitVersionWarning": false,
-    "suppressLineUncommittedWarning": false,
-    "suppressNoRepositoryWarning": false,
-    "suppressResultsExplorerNotice": false,
-    "suppressShowKeyBindingsNotice": true,
-    "suppressUpdateNotice": true,
-    "suppressWelcomeNotice": true
-  },
-  "gitlens.codeLens.enabled": false,
-  "gitlens.historyExplorer.enabled": true,
   "eslint.validate": [
     "javascript",
     "vue"
@@ -48,17 +31,24 @@
   "vetur.format.styleInitialIndent": true,
   "scss.lint.unknownProperties": "ignore",
   "scss.lint.emptyRules": "ignore",
-  "gitlens.views.fileHistory.enabled": true,
-  "gitlens.views.lineHistory.enabled": true,
-  "gitlens.showWhatsNewAfterUpgrades": false,
   "editor.suggestSelection": "first",
   "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-  "npm-intellisense.importLinebreak": "",
-  "npm-intellisense.scanDevDependencies": true,
   "javascript.updateImportsOnFileMove.enabled": "never",
-  "workbench.colorTheme": "brooks",
+  "workbench.colorTheme": "Kiss",
   "liveshare.featureSet": "stable",
-  "editor.gotoLocation.multiple": "goto",
   "typescript.surveys.enabled": false,
-  "typescript.disableAutomaticTypeAcquisition": true
+  "typescript.disableAutomaticTypeAcquisition": true,
+  "files.associations": {
+    "*.json": "jsonc"
+  },
+  "git.enableSmartCommit": true,
+  "settingsSync.ignoredExtensions": [
+    "octref.vetur",
+    "tlent.jest-snapshot-language-support",
+    "ms-azuretools.vscode-docker",
+    "mikestead.dotenv",
+    "jock.svg",
+    "dbaeumer.vscode-eslint",
+    "formulahendry.github-actions"
+  ]
 }
