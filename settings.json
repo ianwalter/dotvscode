@@ -42,6 +42,7 @@
     "*.json": "jsonc"
   },
   "git.enableSmartCommit": true,
+  "git.autofetch": false,
   "settingsSync.ignoredExtensions": [
     "octref.vetur",
     "tlent.jest-snapshot-language-support",
